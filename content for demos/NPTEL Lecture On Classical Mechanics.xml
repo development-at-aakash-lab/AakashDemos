@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProxyMITY>
+  <Details>
+    <videoName>C++ Lecture</videoName>
+    <CourseName>Select/Special topics in classical mechanics</CourseName>
+    <Presentation>abc</Presentation>
+    <Speaker>Prof. P C Deshmukh</Speaker>
+    <Contact>916856952</Contact>
+  </Details>
+  
+  <Theme name="Select/Special topics in classical mechanics">
+    <SlideName>Central problem in mechanics</SlideName>
+    <StartTime>00:11:39</StartTime>
+    <EndTime>00:07:16</EndTime>
+  </Theme>
+  
+  <Theme name="Select/Special topics in classical mechanics">
+   <SlideName>What is Equilibrium</SlideName>
+    <StartTime>00:28:25</StartTime>
+    <EndTime>00:20:01</EndTime>
+  </Theme>
+  
+  <Theme name="Select/Special topics in classical mechanics">
+   <SlideName>Resonances</SlideName>
+    <StartTime>00:38:16</StartTime>
+    <EndTime>00:36:30</EndTime>
+  </Theme>
+  
+  <Theme name="Select/Special topics in classical mechanics">
+<SlideName>Fourier Analysis</SlideName>
+    <StartTime>00:41:54</StartTime>
+    <EndTime>00:45:35</EndTime>
+  </Theme>
+  
+  <Theme name="Select/Special topics in classical mechanics">
+<SlideName>Daniel Bernoulli's theorem</SlideName>
+    <StartTime>00:57:16</StartTime>
+    <EndTime>01:16:00</EndTime>
+  </Theme>
+	
+</ProxyMITY>

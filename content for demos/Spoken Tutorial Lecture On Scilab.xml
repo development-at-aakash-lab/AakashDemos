@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProxyMITY>
+  <Details>
+    <videoName>Spoken Tutorial</videoName>
+    <CourseName>Spoken tutorial on Scilab</CourseName>
+    <Presentation>Scilab</Presentation>
+    <Speaker>Talk to Teacher</Speaker>
+    <Contact>916856952</Contact>
+  </Details>
+ 
+ <!--  <Theme name="Spoken tutorial">
+    
+    <StartTime>00:00:07</StartTime>
+    <EndTime>00:00:32</EndTime>
+  </Theme>-->
+  <Theme name="Spoken tutorial on Scilab">
+    <SlideName>How to make vector</SlideName>
+    <StartTime>00:01:24</StartTime>
+    <EndTime>00:03:35</EndTime>
+  </Theme>
+  <Theme name="Spoken tutorial on Scilab">
+    <SlideName>While Loop</SlideName>
+    <StartTime>00:04:47</StartTime>
+    <EndTime>00:05:40</EndTime>
+  </Theme>
+  <Theme name="Spoken tutorial on Scilab">
+ <SlideName>Break and Continous Statement</SlideName>
+    <StartTime>00:05:42</StartTime>
+    <EndTime>00:05:00</EndTime>
+  </Theme>
+  <!-- <Theme name="">
+
+    <StartTime>00:05:52</StartTime>
+    <EndTime>01:16:00</EndTime>
+  </Theme>-->
+	
+</ProxyMITY>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProxyMITY>
+  <Details>
+    <videoName>DataBase Lecture</videoName>
+    <CourseName>Database Management System</CourseName>
+    <Presentation></Presentation>
+    <Speaker>Prof. Sudarshan</Speaker>
+    <Contact>916856952</Contact>
+  </Details>
+  
+  <!-- <Theme name="Introduction to SQL">
+    
+    <StartTime>00:00:00</StartTime>
+    <EndTime>00:07:16</EndTime>
+  </Theme>-->
+  <Theme name="Introduction to SQL">
+ 
+     <SlideName>Create Tables</SlideName>
+    <StartTime>00:12:17</StartTime>
+    <EndTime>00:20:01</EndTime>
+  </Theme>
+  
+  <Theme name="Introduction to SQL">
+    <SlideName>Drop and Alter Table</SlideName>
+    <StartTime>00:37:20</StartTime>
+    <EndTime>00:36:30</EndTime>
+  </Theme>
+  <Theme name="Introduction to SQL">
+ <SlideName>Select Clause</SlideName>
+    <StartTime>00:41:40</StartTime>
+    <EndTime>00:45:35</EndTime>
+  </Theme>
+  <Theme name="Introduction to SQL">
+ <SlideName>Joins</SlideName>
+    <StartTime>00:54:00</StartTime>
+    <EndTime>01:16:00</EndTime>
+  </Theme>
+	
+</ProxyMITY>
